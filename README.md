@@ -10,16 +10,23 @@ Jestem młodą osobą, która chce rozwijać swoją wiedzę z testowania oprogra
 **Narzędzia**
 
 Systemy Operacyjne: Windows
+
 Narzędzia do zarządzania testowaniem: JIRA, TRELO
+
 Narzędzia do tworzenia i wykonywania dokumentacji testowej: TestLink
+
 Narzędzia do testowania API: Postman (w trakcie nauki)
+
 Narzędzia do automatyzującego Cypress (w trakcie nauki)
 
 **Kursy**
 
 Praktyczny kurs testowanie oprogramowania
+
 Postman od podstaw - testowanie REST API
+
 Kurs SQL od podstaw/ MySQL
+
 Cypress od podstaw- Automatyzacja testów (w trakcie)
 
 
