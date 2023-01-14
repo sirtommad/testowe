@@ -23,14 +23,16 @@ Cypress od podstaw- Automatyzacja testów (w trakcie)
 **Moje dokumenty**:
 
 Zgłaszanie błędów z aplikacji MrBuggy 7 wraz z przykładową dokumentacją:
-[Zgłaszanie przykładowych blędów dla MrBuggy.pdf](https://github.com/sirtommad/testowe/files/10417927/Zglaszanie.przykladowych.bledow.dla.MrBuggy.pdf)
+[Zgłaszanie przykładowych blędów dla MrBuggy.pdf](https://github.com/sirtommad/testowe/files/10417968/Zglaszanie.przykladowych.bledow.dla.MrBuggy.pdf)
 
-[MrBuggy-dokumentacja.pdf](https://github.com/sirtommad/testowe/files/10417928/MrBuggy-dokumentacja.pdf)
+[MrBuggy-dokumentacja.pdf]
+(https://github.com/sirtommad/testowe/files/10417970/MrBuggy-dokumentacja.pdf)
 
 Zgłaszanie błędów z aplikacji do sumowania wydatków wraz z przykładową dokumentacją:
-[Zgłaszanie błędów  z aplikacji ze strony czyitjesdlamnie.pdf]
 
-(https://github.com/sirtommad/testowe/files/10417929/Zglaszanie.bledow.z.aplikacji.ze.strony.czyitjesdlamnie.pdf)
-[Dokumentacja do testowania apklikacji czyitdlamnie.pdf](https://github.com/sirtommad/testowe/files/10417930/
+[Zgłaszanie błędów  z aplikacji ze strony czyitjesdlamnie.pdf](https://github.com/sirtommad/testowe/files/10417971/Zglaszanie.bledow.z.aplikacji.ze.strony.czyitjesdlamnie.pdf)
 
-Dokumentacja.do.testowania.apklikacji.czyitdlamnie.pdf)
+[Dokumentacja do testowania apklikacji czyitdlamnie.pdf]
+(https://github.com/sirtommad/testowe/files/10417972/Dokumentacja.do.testowania.apklikacji.czyitdlamnie.pdf)
+
+
