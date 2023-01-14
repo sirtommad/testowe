@@ -23,11 +23,10 @@ Cypress od podstaw- Automatyzacja testów (w trakcie)
 **Moje dokumenty**:
 
 Zgłaszanie błędów z aplikacji MrBuggy 7 wraz z przykładową dokumentacją:
-[Zgłaszanie przykładowych blędów dla MrBuggy.pdf](https://github.com/sirtommad/test
+[Zgłaszanie przykładowych blędów dla MrBuggy.pdf](https://github.com/sirtommad/testowe/files/10417927/Zglaszanie.przykladowych.bledow.dla.MrBuggy.pdf)
 [MrBuggy-dokumentacja.pdf](https://github.com/sirtommad/testowe/files/10417928/MrBuggy-dokumentacja.pdf)
-owe/files/10417927/Zglaszanie.przykladowych.bledow.dla.MrBuggy.pdf)
 
-Zgłaszanie błędów z aplikacji do sumowania wyd
+
+Zgłaszanie błędów z aplikacji do sumowania wydatków wraz z przykładową dokumentacją:
 [Zgłaszanie błędów  z aplikacji ze strony czyitjesdlamnie.pdf](https://github.com/sirtommad/testowe/files/10417929/Zglaszanie.bledow.z.aplikacji.ze.strony.czyitjesdlamnie.pdf)
-atków wraz z przykładową dokumentacją:
 [Dokumentacja do testowania apklikacji czyitdlamnie.pdf](https://github.com/sirtommad/testowe/files/10417930/Dokumentacja.do.testowania.apklikacji.czyitdlamnie.pdf)
