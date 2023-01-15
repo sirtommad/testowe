@@ -17,7 +17,9 @@ Narzędzia do tworzenia i wykonywania dokumentacji testowej: TestLink
 
 Narzędzia do testowania API: Postman (w trakcie nauki)
 
-Narzędzia do automatyzującego Cypress (w trakcie nauki)
+Narzędzia do automatyzującego: Cypress (w trakcie nauki)
+
+Inne stosowane narzędzia: Sharex, Pick Pick, VSC
 
 **Kursy**
 
@@ -30,7 +32,14 @@ Kurs SQL od podstaw/ MySQL
 Cypress od podstaw- Automatyzacja testów (w trakcie)
 
 
+
+
+
 **Moje dokumenty**:
+
+Test Case - Przykładowe przypadki testowe związane z działaniem Wyszukiwarki Booking.com:
+
+[Przykładowe przypadki testowe dla wyszukiwarki internetowej Booking.pdf](https://github.com/sirtommad/testowe/files/10421015/Przykladowe.przypadki.testowe.dla.wyszukiwarki.internetowej.Booking.pdf)
 
 Testowanie API- Trello:
 
