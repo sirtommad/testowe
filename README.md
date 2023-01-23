@@ -4,7 +4,7 @@ My tester's portfiolio
 
 **O mnie**
 
-Z wykształcenia jestem magistrem finansów i rachunkowości, jednak od jakiegoś czasu pogłębiam swoją wiedzę i kwalifikację zawodowe w kierunku rozpoczęcia pracy jak na stanowisku Testera oprogramowania- Testera Manualnego, a w przyszłości Testera Automatyzującego. 
+Z wykształcenia jestem magistrem finansów i rachunkowości, jednak od jakiegoś czasu pogłębiam swoją wiedzę i kwalifikację zawodowe w kierunku rozpoczęcia pracy na jako Testera oprogramowania- Tester Manualny, a w przyszłości Tester Automatyzujący. 
 Jestem młodą osobą, która chce rozwijać swoją wiedzę z testowania oprogramowania w związku z tym uczestniczyłem i uczestniczę w kursach na platformie Udemy oraz webinarach dla początkujących testerów. 
 
 **Narzędzia**
