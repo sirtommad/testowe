@@ -44,7 +44,7 @@ Test Case - Przykładowe przypadki testowe związane z działaniem Wyszukiwarki 
 
 Testowanie API- Simple Books API:
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/23308352-25ade5b4-55c1-4265-af9d-1b24ada17786?action=collection%2Ffork&collection-url=entityId%3D23308352-25ade5b4-55c1-4265-af9d-1b24ada17786%26entityType%3Dcollection%26workspaceId%3Dfdfa3a34-4cb3-4afe-81ef-40fd515f5d61)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://god.gw.postman.com/run-collection/23308352-25ade5b4-55c1-4265-af9d-1b24ada17786?action=collection%2Ffork&collection-url=entityId%3D23308352-25ade5b4-55c1-4265-af9d-1b24ada17786%26entityType%3Dcollection%26workspaceId%3Dfdfa3a34-4cb3-4afe-81ef-40fd515f5d61)
 
 Testowanie API- Trello:
 
