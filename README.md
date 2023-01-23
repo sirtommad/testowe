@@ -41,6 +41,10 @@ Test Case - Przykładowe przypadki testowe związane z działaniem Wyszukiwarki 
 
 [Przykładowe przypadki testowe dla wyszukiwarki internetowej Booking.pdf](https://github.com/sirtommad/testowe/files/10421015/Przykladowe.przypadki.testowe.dla.wyszukiwarki.internetowej.Booking.pdf)
 
+Test Case - Przykładowe przypadki testowe związane z działaniem aplikacji ze strony Czy It Jest Dla Mnie :
+
+[Przykładowe przypadki dla aplikacji czyitjestdlamnie.pdf](https://github.com/sirtommad/testowe/files/10483120/Przykladowe.przypadki.dla.aplikacji.czyitjestdlamnie.pdf)
+
 
 Testowanie API- Simple Books API:
 
