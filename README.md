@@ -37,9 +37,7 @@ Cypress od podstaw- Automatyzacja testów (w trakcie)
 
 **Moje dokumenty**:
 
-Podstawowe automatyzacje z użyciem Cypress (w trakcie nauki):
 
-[Booking.zip](https://github.com/sirtommad/testowe/files/10611212/Booking.zip)
 
 Test Case - Przykładowe przypadki testowe związane z działaniem Wyszukiwarki Booking.com:
 
