@@ -64,7 +64,9 @@ Zgłaszanie błędów z aplikacji MrBuggy 7 wraz z przykładową dokumentacją:
 
 Zgłaszanie błędów z aplikacji do sumowania wydatków wraz z przykładową dokumentacją:
 
-https://trello.com/b/XaMOVXIL/lista-wydatk%C3%B3w  - Zgłoszenie błędów w Trelo
+Zgłoszenie błędów w Trelo: 
+
+https://trello.com/b/XaMOVXIL/lista-wydatk%C3%B3w  
 
 [Zgłaszanie błędów  z aplikacji ze strony czyitjesdlamnie.pdf](https://github.com/sirtommad/testowe/files/10417971/Zglaszanie.bledow.z.aplikacji.ze.strony.czyitjesdlamnie.pdf)
 
