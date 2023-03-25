@@ -43,9 +43,13 @@ Test Case - Przykładowe przypadki testowe związane z działaniem Wyszukiwarki 
 
 [Przykładowe przypadki testowe dla wyszukiwarki internetowej Booking.pdf](https://github.com/sirtommad/testowe/files/10421015/Przykladowe.przypadki.testowe.dla.wyszukiwarki.internetowej.Booking.pdf)
 
+
 Test Case - Przykładowe przypadki testowe związane z działaniem aplikacji ze strony Czy It Jest Dla Mnie :
 
 [Przykładowe przypadki dla aplikacji czyitjestdlamnie.pdf](https://github.com/sirtommad/testowe/files/10483120/Przykladowe.przypadki.dla.aplikacji.czyitjestdlamnie.pdf)
+
+
+
 
 
 Testowanie API- Simple Books API:
@@ -62,11 +66,19 @@ Zgłaszanie błędów z aplikacji MrBuggy 7 wraz z przykładową dokumentacją:
 
 [MrBuggy-dokumentacja.pdf](https://github.com/sirtommad/testowe/files/10417970/MrBuggy-dokumentacja.pdf)
 
+Zgłaszanie błędów związanych z działaniem stron GOIT w aplikacji Trelo:
+
+Trelo- https://trello.com/b/Fsqy4dP1/goit-zg%C5%82aszanie-przyk%C5%82adowych-b%C5%82%C4%99d%C3%B3w
+
+Link do stron :
+
+https://qa-autocheck-test.netlify.app/?token=d5fcc3783ba50fcac78b5a5ea8e4d69f6fe51ed8368bc618a58a846ad8b03a63&block=nop678917
+
+https://pro-test.qa.m.goit.global/auth)
+
 Zgłaszanie błędów z aplikacji do sumowania wydatków wraz z przykładową dokumentacją:
 
-Zgłoszenie błędów w Trelo: 
-
-https://trello.com/b/XaMOVXIL/lista-wydatk%C3%B3w  
+Trelo - https://trello.com/b/XaMOVXIL/lista-wydatk%C3%B3w  
 
 [Zgłaszanie błędów  z aplikacji ze strony czyitjesdlamnie.pdf](https://github.com/sirtommad/testowe/files/10417971/Zglaszanie.bledow.z.aplikacji.ze.strony.czyitjesdlamnie.pdf)
 
