@@ -84,4 +84,4 @@ Trelo - https://trello.com/b/XaMOVXIL/lista-wydatk%C3%B3w
 
 [Zgłaszanie błędów  z aplikacji ze strony czyitjesdlamnie.pdf](https://github.com/sirtommad/testowe/files/10417971/Zglaszanie.bledow.z.aplikacji.ze.strony.czyitjesdlamnie.pdf)
 
-[Dokumentacja do testowania apklikacji czyitdlamnie.pdf](https://github.com/sirtommad/testowe/files/10417972/Dokumentacja.do.testowania.apklikacji.czyitdlamnie.pdf)
+[Dokumentacja do testowania aplikacji czyitdlamnie.pdf](https://github.com/sirtommad/testowe/files/11069158/Dokumentacja.do.testowania.aplikacji.czyitdlamnie.pdf)
